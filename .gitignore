@@ -1,0 +1,31 @@
+# venv
+venv/
+.venv/
+env/
+ENV/
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# data / outputs
+data/
+outputs/
+results/
+
+# environment files
+.env
+.env.*
+
+# os / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
