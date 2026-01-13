@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pillow
+numpy
+pycryptodome
+scipy
+scikit-learn
+matplotlib
+pandas
